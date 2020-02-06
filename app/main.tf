@@ -7,7 +7,7 @@ source = "github.com/bogaertg/terraform-technical-module//technical-module-b?ref
 }
   
 module "myPrivateApp" {
-source = "github.com/bogaertg/terraform-technical-module-private//technical-module-private?ref=v1.0.0-technical-module-private"
+source = "github.com/bogaertg/terraform-technical-module-private//technical-module-private?ref=v1.1.0-technical-module-private"
 }
   
   
